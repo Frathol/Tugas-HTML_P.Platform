@@ -1,3 +1,11 @@
+body{
+    background-image: url(czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcm00MjItMDczLWt6cGhnMjR1LmpwZw.webp);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
 #hdr {
     background-color: rgb(40, 219, 219);
     border-bottom-style: solid;
