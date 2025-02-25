@@ -1,0 +1,48 @@
+#hdr {
+    background-color: rgb(40, 219, 219);
+    border-bottom-style: solid;
+    display: flow-root;
+}
+
+#h1 {
+    color: red;
+    text-align: center;
+}
+
+#hdrImage {
+    width: 90px;
+    float: left;
+    position: absolute;
+}
+
+#pHead {
+    text-align: center;
+}
+
+#navbar {
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(38, 190, 190);
+}
+
+#navlist {
+    float: left;
+    border-right: 1px solid;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+
+li a:hover {
+    background-color: #111;
+  }
