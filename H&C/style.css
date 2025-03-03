@@ -6,7 +6,7 @@ body{
     background-size: cover;
 }
 
-#hdr {
+header {
     background-color: rgb(40, 219, 219);
     border-bottom-style: solid;
     display: flow-root;
@@ -55,3 +55,10 @@ li a {
 li a:hover {
     background-color: #111;
   }
+
+
+footer{
+    display:block;
+    background-color: lightgrey;
+    text-align: center;
+}
